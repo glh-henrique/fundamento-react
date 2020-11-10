@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default function ReturnString() {
+export default function ComponentOne() {
     const msg = 'Olá mundo!!';
     return(
         <div>
